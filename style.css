@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+#greeting-container {
+  text-align: center;
+}
+
+#greeting {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+
+#tag {
+  font-size: 24px;
+  font-weight: bold;
+  color:  #333;
+}
