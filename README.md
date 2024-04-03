@@ -1,4 +1,4 @@
-# Time-based-Greeting
+# Time based Greeting
 
 This simple web application displays a greeting message based on the current time of the day. It dynamically changes the greeting message (Good morning, Good afternoon, or Good evening) and appends a waving hand emoji to a designated element.
 
